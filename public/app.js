@@ -180,6 +180,7 @@ var App = {
     	this.headerView.render();
         this.footerView.render();
     	this.bindEvents();
+        console.log("Antho ?");
     },
 
 
